@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "glazewm": "^1.7.0",
+    "systray": "^1.0.5",
+    "ws": "^8.19.0"
+  }
+}
